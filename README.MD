@@ -40,15 +40,16 @@ Frontend:
 
 Gain proficiency in building dynamic, interactive UIs with React, manage global state, and optimize user experience using modern tools like Vite and Tailwind CSS.
 
-Backend:
+Backend :
 
 Develop expertise in Node.js and Express to build scalable APIs and work with real-time voting systems. MongoDB allows you to manage flexible, user-generated data efficiently.
 
 Authentication & Security:
 
-Firebase Authentication streamlines secure login and registration, giving valuable experience with user management and security practices.
+Firebase Authentication streamlines secure login and registration, giving valuable experience with user management and security practices
+ .
 
-Multimedia Handling:
+Multimedia Handling :
 
 The app's focus on image uploads and media storage (via irebase or AWS S3) provides hands-on experience managing large file uploads and optimizing user-generated content. Real-World Application and Portfolio Value:
 
