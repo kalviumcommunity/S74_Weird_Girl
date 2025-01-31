@@ -58,3 +58,7 @@ This project not only provides practical experience in web development but also 
 Engagement and Community Building: The app’s interactive features, including voting, leaderboards, and the ability to submit and comment on items, foster a sense of community. This project offers a valuable opportunity to learn about user engagement strategies and social interactions within an app, an essential skill for any developer working on consumer-facing products.
 
 By combining creativity with practical technical challenges, this project will help you grow as a full-stack developer while creating something fun and memorable. It provides an opportunity to master key tools, frameworks, and techniques that are highly relevant in the modern web development landscape.
+
+
+
+DEPLOYMENT LINK - https://s74-weirdest-things-people-keep-in-car.onrender.com
