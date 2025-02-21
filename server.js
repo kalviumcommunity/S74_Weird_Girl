@@ -5,7 +5,7 @@ app.get("/ping", (req, res) => {
   res.send("pong");
 });
 
-const PORT = 3000;
+const PORT = 4000;
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
