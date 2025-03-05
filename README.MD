@@ -62,3 +62,5 @@ By combining creativity with practical technical challenges, this project will h
 
 
 DEPLOYMENT LINK - https://s74-weirdest-things-people-keep-in-car.onrender.com
+
+FRONTEND DEPLOYMENT: https://reliable-salmiakki-3ec32f.netlify.app/
